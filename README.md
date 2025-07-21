@@ -5,7 +5,6 @@ Hey there 👋, I’m **Sunilkumar**, a passionate Computer Science student from
 ---
 <img width="1896" height="900" alt="Screenshot 2025-07-20 164432" src="https://github.com/user-attachments/assets/dc163936-a839-4d47-a67a-02c242476aae" />
 
-<img width="1890" height="894" alt="Screenshot 2025-07-20 164501" src="https://github.com/user-attachments/assets/d71138fc-afac-420a-a2b2-0f7eed4c6041" />
 
 <img width="1895" height="905" alt="Screenshot 2025-07-20 164532" src="https://github.com/user-attachments/assets/cfd51aa2-275b-4492-b578-a82694573745" />
 
